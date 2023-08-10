@@ -71,7 +71,7 @@ def integrate(N, X, V, dt, k, mu, m, deq):
 class String:
     def __init__(self, N, X=None):
         self.color = (150, 50, 50)
-        self.N = N
+        self.N = N #numero de segmentos
         self.Ns = self.N-1
         
         self.dt = 0.09
@@ -122,3 +122,4 @@ while RUN:
     reloj.tick(100)
 
 pygame.quit()
+
