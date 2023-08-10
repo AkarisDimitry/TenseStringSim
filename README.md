@@ -2,7 +2,7 @@
 
 Este repositorio contiene un programa que simula el movimiento de una cuerda bajo diferentes fuerzas. Utiliza la librería Pygame para renderizar gráficamente la cuerda y permite al usuario interactuar con ella.
 
-## **Descripción**:
+## **Descripción** :
 
 La simulación representa una cuerda sometida a varias fuerzas:
 1. Elasticidad de la cuerda.
