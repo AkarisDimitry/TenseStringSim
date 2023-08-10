@@ -13,28 +13,28 @@ La simulación representa una cuerda sometida a varias fuerzas:
 
 - **Elasticidad**:
   La fuerza elástica en un segmento de la cuerda se basa en la Ley de Hooke:
-  \[ F_e = k \times (d - d_{eq}) \]
+  \[ $F_e = k \times (d - d_{eq})$ \]
   Donde:
   - \( $F_e$ \) es la fuerza elástica.
-  - \( k \) es la constante elástica de la cuerda.
-  - \( d \) es la longitud actual del segmento.
-  - \( d_{eq} \) es la longitud de equilibrio del segmento.
+  - \( $k$ \) es la constante elástica de la cuerda.
+  - \( $d$ \) es la longitud actual del segmento.
+  - \( $d_{eq}$ \) es la longitud de equilibrio del segmento.
 
 - **Gravedad**:
   La cuerda es afectada por la gravedad que actúa en la dirección vertical hacia abajo.
-  \[ F_g = m \times g \]
+  \[ $F_g = m \times g$ \]
   Donde:
-  - \( F_g \) es la fuerza gravitacional.
-  - \( m \) es la masa del segmento.
-  - \( g \) es la aceleración debido a la gravedad.
+  - \( $F_g$ \) es la fuerza gravitacional.
+  - \( $m$ \) es la masa del segmento.
+  - \( $g$ \) es la aceleración debido a la gravedad.
 
 - **Fricción**:
   La fuerza de fricción actúa en dirección opuesta al movimiento y es proporcional a la velocidad del segmento:
-  \[ F_f = -\mu \times V \]
+  \[ $F_f = -\mu \times V$ \]
   Donde:
-  - \( F_f \) es la fuerza de fricción.
-  - \( \mu \) es el coeficiente de fricción.
-  - \( V \) es la velocidad del segmento.
+  - \( $F_f$ \) es la fuerza de fricción.
+  - \( $\mu$ \) es el coeficiente de fricción.
+  - \( $V$ \) es la velocidad del segmento.
 
 ### **Integración de Verlet**:
 
