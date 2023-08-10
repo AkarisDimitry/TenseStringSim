@@ -15,7 +15,7 @@ La simulación representa una cuerda sometida a varias fuerzas:
   La fuerza elástica en un segmento de la cuerda se basa en la Ley de Hooke:
   \[ F_e = k \times (d - d_{eq}) \]
   Donde:
-  - \( $ F_e $ \) es la fuerza elástica.
+  - \( $F_e$ \) es la fuerza elástica.
   - \( k \) es la constante elástica de la cuerda.
   - \( d \) es la longitud actual del segmento.
   - \( d_{eq} \) es la longitud de equilibrio del segmento.
