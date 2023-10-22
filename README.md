@@ -1,5 +1,7 @@
 # **Simulación de Cuerda con Pygame**
 
+![image](https://github.com/AkarisDimitry/TenseStringSim/assets/34775621/9f71488b-739f-46b9-888a-edf0af093359)
+
 Este repositorio contiene un programa que simula el movimiento de una cuerda bajo diferentes fuerzas. Utiliza la librería Pygame para renderizar gráficamente la cuerda y permite al usuario interactuar con ella.
 
 ## **Descripción**:
